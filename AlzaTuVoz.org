@@ -1,0 +1,140 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:t title:t toc:t todo:t |:t
+#+title: Alza tu Voz
+#+date: 2026-03-17
+#+author: Lenin G. Falconí
+#+email: lenin.falconi@epn.edu.ec
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 29.3 (Org mode 9.6.15)
+#+cite_export: basic
+
+
+corre y escapa
+la bomba te atrapa
+el pie se atasca
+la muerte se ensaña
+
+las risas se apagan
+el juego acaba
+cae un tomahawk
+cristiano fascista
+
+reduce la escuela
+a escombros y piedras
+mata a las niñas
+las asfixia y quema
+
+Un ser pedófilo
+se regocija con 
+con cada vida
+que aniquila
+
+Libertad dice
+que nos trae
+mas la ley internacional
+viola y  burla
+
+No hay libertad
+sin Legalidad
+Tu silencio
+cómplice te hace
+
+Alza la voz
+Alza tu voz
+contra el tirano de Donald Trump
+
+Alza la voz
+Alza tu voz
+contra los lacayos de Donald Trump
+
+En el Salvador
+En el Ecuador
+En Panamá y Paraguay
+
+En Bolivia y Chile
+En la Argentina
+América Latina
+Soberana y Libre
+
+Libre de Fascistas
+Unida y Orgullosa
+contra el imperio
+cristiano neo fascista
+
+Alza la voz
+Alza tu voz
+contra el genocida de Netanyahu
+
+Alza la voz
+Alza tu voz
+contra el cristiano Fascista de Trump
+
+English
+
+Run and escape  
+The bomb traps you  
+Your foot gets stuck  
+Death takes its aim  
+
+The laughter fades away  
+The game is over  
+A fascist christian tomahawk
+falls over  
+
+Reduces the school  
+To rubble and stones  
+Kills the little girls  
+Suffocates and burns them  
+
+A pedophilic being  
+Rejoices with killing 
+Every life
+he can take 
+
+Freedom, he says  
+he brings to us  
+But international law  
+he violates and mocks  
+
+Without legality  
+There’s no freedom  
+Your silence Makes you
+a complice  
+
+Raise your voice  
+Raise your voice  
+Against the tyrant Donald Trump  
+
+Raise your voice  
+Raise your voice  
+Against the lackeys of Donald Trump  
+
+In El Salvador  
+In Ecuador  
+In Panama and Paraguay  
+
+In Bolivia and Chile  
+In Argentina  
+Latin America  
+Sovereign and Free  
+
+Free from fascists  
+United and Proud  
+Against the Neo-fascist
+Christian Regime  
+
+Raise your voice  
+Raise your voice  
+Against the genocidal Netanyahu  
+
+Raise your voice  
+Raise your voice  
+Against the Christian and fascist Trump
+
+Raise your voice
+
